@@ -1,0 +1,19 @@
+{
+  "name": "test_task_parser",
+  "version": "1.0.0",
+  "main": "parsePage.rb",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shevkosasha/Ruby_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shevkosasha/Ruby_test/issues"
+  },
+  "homepage": "https://github.com/shevkosasha/Ruby_test#readme",
+  "description": ""
+}
